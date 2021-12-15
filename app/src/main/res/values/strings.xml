@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlbertoExamenDI</string>
+    <string name="butingreso">Ingreso</string>
+    <string name="butsaldo">Saldo</string>
+    <string name="butgasto">Gasto</string>
+</resources>
